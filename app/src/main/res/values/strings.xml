@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JokeApp</string>
+    <string name="joke1">Why did the chicken try to cross the road?</string>
+    <string name="joke2">\"When does a joke become a \"dad\" joke?</string>
+    <string name="joke3">What is red and smells like blue paint</string>
+    <string name="joke4">What is a bear with no ears called?</string>
+    <string name="joke5">Want to hear a joke about construction?</string>
+    <string name="joke6">What kind of sounds does a witches car make?</string>
+</resources>
